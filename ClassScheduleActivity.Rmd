@@ -1,7 +1,7 @@
 ---
 title: "RMarkdown Class Schedule"
-author: "your name here..."
-date: "September 5, 2018"
+author: "Phichchaya Sutaporn"
+date: "August 28, 2019"
 output: html_notebook
 ---
 
@@ -9,21 +9,30 @@ output: html_notebook
 
 ### PSU 016: First-Year Seminar
 
-This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  This year I'm trying something different by assigning the book "How Not to Be Wrong" by Jordan Ellenberg.  It's a really great book about how I think statisticians/mathematicians see the world differently from most other people.  I hope the class actually enjoys it.
+PSU 016 is a first year siminar class. My instructor of this is class is Dr.Beckman. This class gives me a chance to learn about how to success in academic life, time management, also know more about statistics such as study options, jobs after graduate,grad school and etc. All of student in this class are majoring in statistic, so this is a good opportunity to get to know people who has similar goal and kind of see thing silimar as you do.
 
-For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a classic Penn State picture of Old Main seems as fitting as anything else.
+I attach a page about the importances of statistic the title is "10 Awesome Reasons Why Statistics Are Important" be open minded and read it, maybe you love love stat as I do ! [here's the link](https://medium.com/@john_marsh7/10-awesome-reasons-why-statistics-are-important-96b87e283640)! 
 
-![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
+I also want you to look at this statistics joke, you will love it (maybe haha)(http://www.mathfunny.com/images/mathjoke-haha-humor-math-meme-joke-pic-mathmeme-funnypics-pun-standarddeviation-statistics-norm-love.jpg)
 
 
 ### STAT 184: Introduction to R Programmaing
 
-[your turn!]
+STAT 184 is an introduction to R course. I also have Dr.Beckman as an instructor (same as PSU016). We will learn R language which is a powerful source for statiscial analysis.
+ 
+This is a link about R language for people who don't know R. This page will explain you about R language. So, please take a look. [here's the link](https://www.r-project.org/about.html) 
+
+Here is a picture showing why you should learn R language (https://hackernoon.com/hn-images/1*WSZpEbx1J71GL7KZ4BOONQ.jpeg)
 
 
-### [Additional Courses...]
+### STAT 200: Elementary Statistics
 
-[your turn!]
+I'm taking STAT200 with Dr. Matthew Reimherr.This is a class about basic concept of data collection, exploratory data analysis and statistical inference. I will earn 4 credits after I finished this class. This class iss also a requirement for statistics major.
+
+Here is a page that talks about what is statistics and how to understand elementary statistics [here's the link](https://www.statisticshowto.datasciencecentral.com/what-is-elementary-statistics/) 
+
+This is the picture that show jobs that people get after graduated in statistics major, so you can see kind of overview about careers that related to statistics! (https://www.tun.com/blog/wp-content/uploads/2019/04/Statistics-Major-Web.png)
+
 
 
 
